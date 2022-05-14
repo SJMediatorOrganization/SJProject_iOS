@@ -1,0 +1,6 @@
+framework module SJHome_Module {
+  umbrella header "SJHome_Module-umbrella.h"
+
+  export *
+  module * { export * }
+}

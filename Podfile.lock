@@ -1,0 +1,30 @@
+PODS:
+  - CTMediator (46)
+  - SJHome_Module (1.0.0):
+    - SJHome_Module_Catogery
+  - SJHome_Module_Catogery (1.0.3):
+    - CTMediator
+  - SJToolsKit (1.0.0)
+
+DEPENDENCIES:
+  - SJHome_Module
+  - SJHome_Module_Catogery
+  - SJToolsKit
+
+SPEC REPOS:
+  "git@github.com:SJMediatorOrganization/SJSpecs.git":
+    - SJHome_Module
+    - SJHome_Module_Catogery
+    - SJToolsKit
+  https://github.com/CocoaPods/Specs.git:
+    - CTMediator
+
+SPEC CHECKSUMS:
+  CTMediator: f1cf58d509fb3192086c367711f039efd769b907
+  SJHome_Module: 2ddb4ae0670e904635fe923956742c532b414da9
+  SJHome_Module_Catogery: 25e5ce65f52dec45992c155484c02b9e2f3e93e8
+  SJToolsKit: 5f5db1368a152f82145df55008ef56256f8927fb
+
+PODFILE CHECKSUM: a3fd043f7c6d8bd017de0145202de9e5542c4bb4
+
+COCOAPODS: 1.11.3

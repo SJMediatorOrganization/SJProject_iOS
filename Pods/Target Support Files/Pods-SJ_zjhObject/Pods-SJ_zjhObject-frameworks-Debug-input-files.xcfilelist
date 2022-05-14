@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-SJ_zjhObject/Pods-SJ_zjhObject-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CTMediator/CTMediator.framework
+${BUILT_PRODUCTS_DIR}/SJHome_Module/SJHome_Module.framework
+${BUILT_PRODUCTS_DIR}/SJHome_Module_Catogery/SJHome_Module_Catogery.framework
+${BUILT_PRODUCTS_DIR}/SJToolsKit/SJToolsKit.framework

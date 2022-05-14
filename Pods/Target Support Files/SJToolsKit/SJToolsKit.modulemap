@@ -1,0 +1,6 @@
+framework module SJToolsKit {
+  umbrella header "SJToolsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

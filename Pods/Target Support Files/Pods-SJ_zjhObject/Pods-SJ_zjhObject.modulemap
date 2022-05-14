@@ -1,0 +1,6 @@
+framework module Pods_SJ_zjhObject {
+  umbrella header "Pods-SJ_zjhObject-umbrella.h"
+
+  export *
+  module * { export * }
+}

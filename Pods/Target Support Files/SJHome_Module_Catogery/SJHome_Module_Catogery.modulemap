@@ -1,0 +1,6 @@
+framework module SJHome_Module_Catogery {
+  umbrella header "SJHome_Module_Catogery-umbrella.h"
+
+  export *
+  module * { export * }
+}
